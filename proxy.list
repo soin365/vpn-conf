@@ -53,8 +53,8 @@ DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-KEYWORD,kahoot
 DOMAIN-KEYWORD,instagram
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,googlevideo.com
+DOMAIN,youtube.com
+DOMAIN,googlevideo.com
 DOMAIN-KEYWORD,rutracker
-DOMAIN-SUFFIX,ggpht.com
+DOMAIN,ggpht.com
 
